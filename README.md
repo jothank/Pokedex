@@ -26,3 +26,6 @@ git clone https://github.com/seunome/pokedex.git
 
 3. Utilize as funcionalidades da Pokédex para visualizar os Pokémons.
 
+## Visualize em:
+
+https://jothank.github.io/Pokedex/
