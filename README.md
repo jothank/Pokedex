@@ -18,7 +18,7 @@ Este é um projeto de Pokédex desenvolvido em HTML, CSS e JS, que utiliza a API
 
 1. Clone este repositório em sua máquina local:
 
-ˋˋˋgit
+ˋˋˋsql
 git clone https://github.com/seunome/pokedex.git
 ˋˋˋ
 
