@@ -20,7 +20,7 @@ Este é um projeto de Pokédex desenvolvido em HTML, CSS e JS, que utiliza a API
 
 ```ruby
 git clone https://github.com/seunome/pokedex.git
-ˋˋˋ
+``` 
 
 2. Abra o arquivo `index.html` no seu navegador de preferência.
 
